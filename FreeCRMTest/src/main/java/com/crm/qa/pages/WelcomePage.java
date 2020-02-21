@@ -23,27 +23,27 @@ public class WelcomePage extends TestBase{
 	}
 	public LoginPage LoginBtnClick()
 	{
-		TestBase.logger.info("Clicking on Login button on Welcome page");
+		TestBase.logger.info("on Welcome page - Clicking on Login button ");
 		LOGINbtn.click();
 		 return new LoginPage();
 		
 	}
 	public SignUpPage SignUpBtnClick()
 	{
-		TestBase.logger.info("Clicking on SignUp button on Welcome page");
+		TestBase.logger.info("on Welcome page - Clicking on SignUp button ");
 		SignUpBtn.click();
 		return new SignUpPage();
 	}
 	
 	public String pageTitle()
 	{
-		TestBase.logger.info("Checking PageTitle on Welcome page");
+		TestBase.logger.info("on Welcome page - Checking PageTitle ");
 		return driver.getTitle();
 		
 	}
 	public boolean CheckLogo()
 	{
-		TestBase.logger.info("Checking Logon on Welcome page");
+		TestBase.logger.info("on Welcome page - Checking Logon ");
 		boolean flag = Logo.isDisplayed();
 		return flag;
 	}
