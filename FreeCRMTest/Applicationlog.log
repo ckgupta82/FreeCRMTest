@@ -1,0 +1,122 @@
+2020-Feb-16 23:20:56,169 [main] TestBase 
+  INFO  Clicking on Login button on Welcome page
+2020-Feb-16 23:21:00,906 [main] TestBase 
+  INFO  Checking Password element present on Login Page
+2020-Feb-16 23:21:21,730 [main] TestBase 
+  INFO  Clicking on SignUp button on Welcome page
+2020-Feb-16 23:21:45,230 [main] TestBase 
+  INFO  Checking PageTitle on Welcome page
+2020-Feb-16 23:22:03,829 [main] TestBase 
+  INFO  Checking Logon on Welcome page
+2020-Feb-16 23:22:23,707 [main] TestBase 
+  INFO  Clicking on Login button on Welcome page
+2020-Feb-16 23:22:29,977 [main] TestBase 
+  INFO  Checking Login Page Title
+2020-Feb-16 23:22:49,628 [main] TestBase 
+  INFO  Clicking on Login button on Welcome page
+2020-Feb-16 23:22:55,633 [main] TestBase 
+  INFO  Clicking on SignUp button on Login Page
+2020-Feb-16 23:23:20,639 [main] TestBase 
+  INFO  Clicking on Login button on Welcome page
+2020-Feb-16 23:23:25,389 [main] TestBase 
+  INFO  Clicking on ForgotPassword link on Login Page
+2020-Feb-16 23:23:46,294 [main] TestBase 
+  INFO  Clicking on Login button on Welcome page
+2020-Feb-16 23:23:51,345 [main] TestBase 
+  INFO  Checking Login functionality
+2020-Feb-16 23:24:17,906 [main] TestBase 
+  INFO  Clicking on Login button on Welcome page
+2020-Feb-16 23:24:22,934 [main] TestBase 
+  INFO  Checking Login functionality
+2020-Feb-16 23:24:28,902 [main] TestBase 
+  INFO  Clicking on new contact button on contacts page
+2020-Feb-16 23:24:53,911 [main] TestBase 
+  INFO  Clicking on Login button on Welcome page
+2020-Feb-16 23:24:59,039 [main] TestBase 
+  INFO  Checking Login functionality
+2020-Feb-16 23:25:04,860 [main] TestBase 
+  INFO  Clicking on new contact button on contacts page
+2020-Feb-16 23:25:05,211 [main] TestBase 
+  INFO  Creating new Contact on Create new Contact page
+2020-Feb-16 23:25:29,643 [main] TestBase 
+  INFO  Clicking on Login button on Welcome page
+2020-Feb-16 23:25:35,497 [main] TestBase 
+  INFO  Checking Login functionality
+2020-Feb-16 23:25:41,301 [main] TestBase 
+  INFO  Clicking on new contact button on contacts page
+2020-Feb-16 23:25:41,646 [main] TestBase 
+  INFO  Creating new Contact on Create new Contact page
+2020-Feb-16 23:26:03,930 [main] TestBase 
+  INFO  Clicking on Login button on Welcome page
+2020-Feb-16 23:26:09,966 [main] TestBase 
+  INFO  Checking Login functionality
+2020-Feb-16 23:26:15,886 [main] TestBase 
+  INFO  Clicking on new contact button on contacts page
+2020-Feb-16 23:26:16,191 [main] TestBase 
+  INFO  Creating new Contact on Create new Contact page
+2020-Feb-16 23:26:40,168 [main] TestBase 
+  INFO  Clicking on Login button on Welcome page
+2020-Feb-16 23:26:45,983 [main] TestBase 
+  INFO  Checking Login functionality
+2020-Feb-16 23:26:51,851 [main] TestBase 
+  INFO  Clicking on new contact button on contacts page
+2020-Feb-16 23:26:52,669 [main] TestBase 
+  INFO  Creating new Contact on Create new Contact page
+2020-Feb-16 23:27:02,607 [main] freemarker.cache 
+  DEBUG Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-Feb-16 23:27:02,607 [main] freemarker.cache 
+  DEBUG TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2020-Feb-16 23:27:02,607 [main] freemarker.cache 
+  DEBUG TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-Feb-16 23:27:02,611 [main] freemarker.cache 
+  DEBUG TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-Feb-16 23:27:02,611 [main] freemarker.cache 
+  DEBUG Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Windows/system32/config/systemprofile/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2020-Feb-16 23:27:03,089 [main] freemarker.cache 
+  DEBUG Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+2020-Feb-16 23:27:03,093 [main] freemarker.cache 
+  DEBUG TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+2020-Feb-16 23:27:03,093 [main] freemarker.cache 
+  DEBUG TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+2020-Feb-16 23:27:03,098 [main] freemarker.cache 
+  DEBUG TemplateLoader.findTemplateSource("Extent.ftl"): Found
+2020-Feb-16 23:27:03,098 [main] freemarker.cache 
+  DEBUG Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Windows/system32/config/systemprofile/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+2020-Feb-16 23:44:01,695 [main] TestBase 
+  INFO  Clicking on Login button on Welcome page
+2020-Feb-16 23:44:10,221 [main] TestBase 
+  INFO  Checking Login functionality
+2020-Feb-16 23:44:16,105 [main] TestBase 
+  INFO  Clicking on new contact button on contacts page
+2020-Feb-17 00:07:49,886 [main] com.crm.qa.base.TestBase 
+  INFO  Clicking on Login button on Welcome page
+2020-Feb-17 00:07:53,815 [main] com.crm.qa.base.TestBase 
+  INFO  Checking Login functionality
+2020-Feb-17 00:07:59,606 [main] com.crm.qa.base.TestBase 
+  INFO  Clicking on new contact button on contacts page
+2020-Feb-17 00:07:59,902 [main] com.crm.qa.base.TestBase 
+  INFO  Creating new Contact on Create new Contact page
+2020-Feb-17 00:08:23,428 [main] com.crm.qa.base.TestBase 
+  INFO  Clicking on Login button on Welcome page
+2020-Feb-17 00:08:27,026 [main] com.crm.qa.base.TestBase 
+  INFO  Checking Login functionality
+2020-Feb-17 00:08:32,810 [main] com.crm.qa.base.TestBase 
+  INFO  Clicking on new contact button on contacts page
+2020-Feb-17 00:08:33,111 [main] com.crm.qa.base.TestBase 
+  INFO  Creating new Contact on Create new Contact page
+2020-Feb-17 00:08:56,178 [main] com.crm.qa.base.TestBase 
+  INFO  Clicking on Login button on Welcome page
+2020-Feb-17 00:08:59,819 [main] com.crm.qa.base.TestBase 
+  INFO  Checking Login functionality
+2020-Feb-17 00:09:05,578 [main] com.crm.qa.base.TestBase 
+  INFO  Clicking on new contact button on contacts page
+2020-Feb-17 00:09:05,943 [main] com.crm.qa.base.TestBase 
+  INFO  Creating new Contact on Create new Contact page
+2020-Feb-17 00:09:27,645 [main] com.crm.qa.base.TestBase 
+  INFO  Clicking on Login button on Welcome page
+2020-Feb-17 00:09:31,419 [main] com.crm.qa.base.TestBase 
+  INFO  Checking Login functionality
+2020-Feb-17 00:09:37,304 [main] com.crm.qa.base.TestBase 
+  INFO  Clicking on new contact button on contacts page
+2020-Feb-17 00:09:37,640 [main] com.crm.qa.base.TestBase 
+  INFO  Creating new Contact on Create new Contact page

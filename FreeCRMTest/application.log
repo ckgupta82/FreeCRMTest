@@ -1,0 +1,3 @@
+2020-02-17 00:12:31,301  INFO [main] TestBase:26 - Clicking on Login button on Welcome page
+2020-02-17 00:12:35,120  INFO [main] TestBase:62 - Checking Login functionality
+2020-02-17 00:12:40,883  INFO [main] TestBase:27 - Clicking on new contact button on contacts page
